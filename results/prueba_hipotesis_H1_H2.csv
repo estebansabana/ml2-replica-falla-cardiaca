@@ -1,0 +1,4 @@
+modelo,brecha 11 variables (T4),brecha 2 variables (T9),H1: sim < real en T9,H2: brecha T9 mayor
+Random forests,-0.005,-0.197,True,True
+Gradient boosting,-0.07,-0.221,True,True
+SVM radial,0.043,-0.047,True,True

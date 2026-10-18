@@ -1,0 +1,5 @@
+variante,MCC,TPR
+kNN k=3 SIN escalar,-0.005,0.229
+kNN k=3 CON escalar,0.162,0.272
+SVM lineal C=0.1 SIN escalar,-0.031,0.502
+SVM lineal C=0.1 CON escalar,0.359,0.374

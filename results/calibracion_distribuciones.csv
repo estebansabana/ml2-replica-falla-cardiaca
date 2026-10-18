@@ -1,0 +1,15 @@
+clase,variable,familia,mediana_obj,mediana_cal,media_obj,media_cal,sd_obj,sd_cal,perdida
+1,age,gamma_desplazada,65.0,64.491,65.22,65.842,13.21,13.235,0.004
+1,creatinine_phosphokinase,lognormal,259.0,200.65,670.2,728.451,1316.58,1280.982,0.005
+1,ejection_fraction,beta_escalada,30.0,30.541,33.47,32.798,12.53,12.773,0.005
+1,platelets,gamma,258.5,251.701,256.38,263.479,98.53,96.892,0.01
+1,serum_creatinine,lognormal,1.3,1.312,1.84,1.825,1.47,1.478,0.0
+1,serum_sodium,normal,135.5,135.48,135.4,135.421,5.0,5.002,0.0
+1,time,beta_escalada,44.5,46.311,70.89,68.14,62.38,64.033,0.003
+0,age,gamma_desplazada,60.0,58.624,58.76,60.268,10.64,10.244,0.038
+0,creatinine_phosphokinase,lognormal,245.0,262.766,540.1,521.188,753.8,761.879,0.001
+0,ejection_fraction,beta_escalada,38.0,38.748,40.27,39.445,10.86,10.972,0.011
+0,platelets,gamma,263.0,259.202,266.66,270.615,97.53,96.641,0.003
+0,serum_creatinine,lognormal,1.0,1.004,1.19,1.185,0.65,0.652,0.0
+0,serum_sodium,normal,137.0,137.111,137.2,137.087,3.98,3.974,0.002
+0,time,beta_escalada,172.0,167.891,158.3,163.424,67.74,68.503,0.01

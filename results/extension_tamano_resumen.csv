@@ -1,0 +1,11 @@
+,,mean,mean,mean,std,std,std
+n,,299,1000,2990,299,1000,2990
+modelo,variables,,,,,,
+Gradient boosting,11 variables,0.28,0.367,0.418,0.085,0.048,0.029
+Gradient boosting,2 variables,0.163,0.306,0.312,0.095,0.052,0.029
+Naive bayes,11 variables,0.351,0.305,0.273,0.091,0.048,0.03
+Naive bayes,2 variables,0.22,0.268,0.29,0.076,0.049,0.03
+Random forests,11 variables,0.378,0.447,0.465,0.087,0.049,0.027
+Random forests,2 variables,0.214,0.279,0.269,0.077,0.049,0.03
+SVM radial,11 variables,0.258,0.318,0.375,0.087,0.052,0.029
+SVM radial,2 variables,0.289,0.371,0.385,0.085,0.037,0.026

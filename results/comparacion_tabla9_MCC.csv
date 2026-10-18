@@ -1,0 +1,4 @@
+,paper,real,simulado,real - paper,sim - real
+Random forests,0.418,0.404,0.207,-0.014,-0.197
+Gradient boosting,0.414,0.395,0.174,-0.019,-0.221
+SVM radial,0.348,0.338,0.291,-0.01,-0.047

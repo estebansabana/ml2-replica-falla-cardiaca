@@ -1,0 +1,4 @@
+modelo,T9 real (media ± sd),T9 sim (media ± sd),p real vs sim (Wilcoxon pareado),T4 real (media),"p 2 var vs 11 var, real (Mann-Whitney)"
+Random forests,0.404 ± 0.082,0.207 ± 0.082,2.486930450124246e-17,0.368,0.04876501819107204
+Gradient boosting,0.395 ± 0.086,0.174 ± 0.092,2.0195637546078607e-17,0.347,0.000649915577816828
+SVM radial,0.338 ± 0.092,0.291 ± 0.091,0.0022768754185160216,0.289,0.0012852449681553804
