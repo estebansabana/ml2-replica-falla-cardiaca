@@ -6,6 +6,8 @@ Trabajo final — Aprendizaje de Máquina II, Maestría en Analítica Aplicada, 
 
 **Artículo replicado:** Chicco, D., & Jurman, G. (2020). *Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone.* BMC Medical Informatics and Decision Making, 20, 16. [https://doi.org/10.1186/s12911-020-1023-5](https://doi.org/10.1186/s12911-020-1023-5). Copia en `references/`.
 
+**Repositorio:** [https://github.com/estebansabana/ml2-replica-falla-cardiaca](https://github.com/estebansabana/ml2-replica-falla-cardiaca)
+
 ---
 
 ## Resumen
@@ -59,7 +61,7 @@ Hipótesis registradas **antes** de entrenar los modelos, a partir del diagnóst
 ## Estructura del repositorio
 
 ```
-proyecto_ml_final/
+ml2-replica-falla-cardiaca/
 ├── README.md
 ├── requirements.txt            # dependencias mínimas
 ├── requirements_lock.txt       # versiones exactas usadas
@@ -87,7 +89,8 @@ proyecto_ml_final/
 ### 1. Entorno (macOS, zsh)
 
 ```zsh
-cd proyecto_ml_final
+git clone https://github.com/estebansabana/ml2-replica-falla-cardiaca.git
+cd ml2-replica-falla-cardiaca
 python3.12 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
